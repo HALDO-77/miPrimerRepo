@@ -1,5 +1,5 @@
 🐛 Bug Report
-Descripción
+Descripción.
 
 Describe claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
 Pasos para reproducir
